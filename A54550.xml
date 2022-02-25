@@ -1,0 +1,170 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Petition of the ladies of London and Westminister to the honourable house of husbands</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1693</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 14 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A54550</idno>
+            <idno type="STC">Wing P1812</idno>
+            <idno type="STC">ESTC R235129</idno>
+            <idno type="EEBO-CITATION">12199244</idno>
+            <idno type="OCLC">ocm 12199244</idno>
+            <idno type="VID">56074</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A54550)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 56074)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 872:58)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Petition of the ladies of London and Westminister to the honourable house of husbands</title>
+               </titleStmt>
+               <extent>4 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Mary Want-man ... and sold by A.R. ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1693.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in the University of Illinois (Urbana-Champaign Campus). Library.</note>
+                  <note>Caption title.</note>
+                  <note>Imprint from colopon.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Marriage --  Anecdotes</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-02</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-04</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-03</date>
+            <label>Judith Siefring</label>Sampled and proofread</change>
+         <change>
+            <date>2011-03</date>
+            <label>Judith Siefring</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:56074:1"/>
+            <pb n="1" facs="tcp:56074:1" rendition="simple:additions"/>
+            <head>THE Petition of the LADIES of <hi>LONDON</hi> and <hi>WESTMINSTER</hi> to the Honourable Houſe of HUSBANDS</head>
+            <p>WE know you are harraſſed with Petitions from all Quarters of the Nation; for to whom ſhould the miſerable Subject apply himſelf for the Redreſs of his juſt Grie<g ref="char:EOLhyphen"/>ances, but to this awfull Aſsembly? At preſent you have no leſs th<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n the Safety af all <hi>Europe,</hi> and that of <hi>England</hi> in particular, depending upon your Supplies and Aſſi<g ref="char:EOLhyphen"/>ſtance; yet you ſometimes condeſcend to entertain your ſelves with Things of far leſs Impor<g ref="char:EOLunhyphen"/>tance, Give us leave therefore to lay our lamentable Condition before you, and to expect a relief from your generous appearing in our behalf. We demand nothing but what is high<g ref="char:EOLhyphen"/>ly reaſonable and advantageous to the State, nothing but what the Laws of God, Nature, and the end of our Creation plead for, &amp; next to that immediatly employs your Councils at this juncture, we offer a matter of the higheſt Conſequence that ever came within your Walls.</p>
+            <p>You need not be reminded with what Scorn and contempt the Holy State of Matrimony has of late years been treated: Every naſty Scribler of the Town has pelted it in his wretch<g ref="char:EOLhyphen"/>ed Lampoons; it has been perſecuted in Sonnet, reddicul'd at Court, expoſed on the The<g ref="char:EOLhyphen"/>atre, and that ſo often, that the Subject is now exhauſted and barren; ſo that if no new Ef<g ref="char:EOLhyphen"/>fors have been lately made againſt our Sexes Grand Charter, we are not to aſcribe it either to the good Nature or Converſion of the Men, but only to the want of freſh Matter and Ar<g ref="char:EOLhyphen"/>gument. What afflicts us moſt, is to find Perſons of good ſence and gravity, conſiderable for their Eſtates and Fortunes, ſo ſhamefullie led aſide from their Duty by the feeble So<g ref="char:EOLhyphen"/>phiſtry of theſe little unthinking Rhiming Creatures; and to ſee that a ſcurilous Song to the Tune of a <hi>Dog with a</hi> Bo<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>tle, ſhall make a greater Impreſſion upon them than all the wholeſome Precepts of the Apoſtles put together.</p>
+            <p>One, forſooth, is mortally afraid leaſt his head ſhould ake within a Fortnight or ſo after Marriage, and yet makes no Conſcience of filling his Carcaſs every Night with filthy ſtummed Wine, which in all probability will ſooner give him a Fever, than a Wife confer a pair of Horns upon him. A ſecond profeſſes he has an unvincible Averſion to the ſqualing of Children, and rooking of Cradles, though the Sot can fit a whole day at <hi>Wills,</hi> amidſt the eternal Quarrels of the No wits, and the endleſs Diſputes of No-Politicians: A third is apprehenſive of the thing called Curtain-Lectures, as the nauſeous Fellows love to talk; and yet ſuffer themſelves to be tamely rid by common, ungrateful Hackney proſtituts. A Fourth has a great reſpect to his own dear perſon and thinks a Wife will drain him to meer Skin and Bones, who for all that ſo manages himſelf, as to have occaſion to viſit Dr. W<gap reason="illegible" resp="#PDCC" extent="4 letters">
+                  <desc>••••</desc>
+               </gap>wice a Quarter. Laſtly, The graver ſort exclaim at the Caudels, the Pins, &amp;
+<pb n="2" facs="tcp:56074:2"/>Midwives, the Nurſes, and other Concominats of Wedlock; they pretend the Taxes run high, and that a Spouſe is an expenſive Animal, little conſidering that they throw away more upon their dearly beloved vanities, than would maintain a Wife, and half a dozen Children.</p>
+            <p>Theſe are the common Topicks againſt Matrimonie; and yet, to behold the Vanitie of theſe pretences, they immediatlie diſappear and vaniſh, as ſoon as a good Fortune comes in their way. Show the Sparks but a rich Heireſs, or an old griping Alderman's Daugh<g ref="char:EOLhyphen"/>ter, and they ſoon forget Curtain lectures and Cuckoldom Conſumptions and Skeltons, pins and caudles, Impertinance and Confinement, with the reſt of their terrible objections. Then you hear not a Syllable of Libertie; but oh! what a bleſſed, what a comforeable thing is a Wife! Nay, a Widdow, though paſt Fiftie, and as uglie as one of the Witches in <hi>Macbeth,</hi> if ſhe has but ſtore of Monie, ſhall go down as gliblie with them, as the New Oaths of Preferment at Court; without the leaſt wry Face or remorſe of conſciene<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>; And the vain Coxcombs think themſelves as happie, as if they had got both the <hi>Indies</hi> in their poſſeſſion.</p>
+            <p>But though the Laitie, not to mince Matters, have almoſt univerſalie degenerated in this wicked Age; Yet we bleſs Heaven that our Sex has ſtill found the Benefit of the Cler<g ref="char:EOLhyphen"/>gie, &amp; that the Church men have been our ſureſt &amp; beſt Friends all along. Had not theſe pious Gentlemen taken pitie of our condition, how manie ſuperannuated Chamber-Maids had lain neglected, how manie languiſhing Farmer's Daughters gone the way of all Fleſh, without propagating their kind? Whatever Prevarications they have made in other parts of the Bible; we have to our unſpeakable comfort found that they have kept conſtant to the Text, <hi>Increaſe and multiply;</hi> and indeed it was but reaſonable that theſe People who are every Momont trumping their <hi>Jure Divino</hi> upon the World, ſhould by their own Ex<g ref="char:EOLhyphen"/>ample ſupport and countenance that ſort of Life, which is as much <hi>Jure Divino</hi> as the Prieſthood.</p>
+            <p>We never queſtioned, notwithſtanding the unwearied Attempts of our adverſaries to render Marriage contemptible both in their Writings and Converſation, but that Nature, meer Nature without any Endeavours of our own, would have reduced the Men long ſince to a true ſenſe of their Dutie, had it not been for the two following Impediments: The firſt is <hi>Wine,</hi> which we that are Maids have as much reaſon to complain of, as thoſe that are married. 'Tis a burning ſhame, and it highlie concerns the wiſdom of the nation to prevent it, that the young fellows of the Town ſhould ſcandalouſlie abandon themſelves to the Bottle. They ply their Glaſſes too warmlie to think of anie thing elſe; and if the li<g ref="char:EOLhyphen"/>quor happens to inſpire them with anie kind Inclinations, the next Street furniſhes them with ſtore of conveniences to relieve their Appetite. And this leads us to the ſecond Block in our way, which is the intolerable multitude of <hi>Miſtreſſes,</hi> who to the great prejudice of the publick, divert the courſe of thoſe ſtreams, which would otherwiſe run in the regu<g ref="char:EOLhyphen"/>lar Channel of ma<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rimonie, As long as theſe contraband Commodities are encouraged or connived at, it cannot be expected that vertuous Women ſhould bear a good market price, or that Marriage ſhould flouriſh.</p>
+            <p>
+               <pb n="3" facs="tcp:56074:2"/> It would look like Affectation or Vanity in thoſe of our Sex, whom the malicious World ſup<g ref="char:EOLhyphen"/>poſes to be converſant in nothing elſe but Books of Receipts and Romances, to acquaint ſo ex<g ref="char:EOLhyphen"/>perienced and learned a Body as yours is, how highly Marriage was reverenced, and how in<g ref="char:EOLhyphen"/>duſtriouſly cultivated by the wiſeſt Governments in the World. The Examples of
+<hi>Athens</hi> and <hi>Sparta</hi> are too notorious to be long inſiſted upon. Thoſe were glorious places for us, poor Women, to live in; a Man there could neither be Church Warden or Conſtable, nay, nor be concerned in the meaneſt, moſt ſcoundrel Pariſh Offices, unleſs he was married. An old muſty Batchelor was pointed at like a Monſter, they looked upon ſuch a one to be diſaffected to the State, and therefore as conſtantly indicted him every Quarter Seſſions, for letting his Talent lie unemployed, as now we do <hi>Jacobites,</hi> and falſe Retailers of News. The ſame Policy was obſerved at <hi>Rome,</hi> where the <hi>Jus trium liberorum,</hi> the priviledge of thoſe that had got three Children, was one of the greateſt Favours the Emperor could beſtow u<g ref="char:EOLhyphen"/>pon a Subject, and was courted with as vigorous an Application as a Knighthood is now adayes. By this means that victorious City arrived to the Empire of the World; And we, if we would beat the <hi>French</hi> into better manners, we muſt follow the ſame Conduct: But it grieves our hearts to conſider that in a Chriſtian, and much more in a Proteſtant Country, we are forced to ſtir up the Charity of well diſpoſed perſons by citing Pagan Examples.</p>
+            <p>We therefore humbly Petition you, that for the increaſe of Their Majeſties Liege people, in whom the power and ſtrength of a Nation conſiſts, and for the utter diſcouragement of Cele<g ref="char:EOLhyphen"/>bacy and all its wicked works, you would be pleaſed to enact,</p>
+            <p>Firſt, That all men of what Quality and Degree ſoever, ſhould be obliged to marry as ſoon as they are One and Twenty; and that thoſe perſons who decline ſo doing, ſhall for their Libertie, as they are pleaſed to miſcallit, pay yearlie to the State, which we leave to your diſcretion to make as great or as little as you think fit, on Moietie whereof ſhall go to the King towards the payment to his Armie in <hi>Flanders,</hi> and the reſt to be diſtributed amongſt poor Houſe keepers, that have not ſufficient to maintain their Wives and reſpective Families by ſuch married Officers as you ſhall nominate and appoint.</p>
+            <p>Secondlie, That no Excuſe ſhall be admitted, but onlie that of natural friglditie or im<g ref="char:EOLhyphen"/>potence; which that it may not be pretended when there is no juſt occaſion for it, and likewiſe that impotent perſons may not, to the diſapoointment of their Spouſes, enter into the holy State of Matrimonie, there ſhall be erected in every Countie in <hi>England</hi> a Court of Judioature, compoſed of half a ſcore experienced Matrons or Midwives, who by a wri<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <hi>de martiali ſupellectile inſpiciendâ,</hi> may ſummon or cauſe to be ſummoned, all ſuch people as pretend the abovementioned Excuſe, or are juſtlie ſuſpected thereof.</p>
+            <p>Thirdlie, Since it is found by experience that the generalitie of Young-men, are ſuch I<g ref="char:EOLhyphen"/>dolaters of the Bottle, and that Wine is the moſt powerful Rival which the Ladies have reaſon to be jealous of, that no perſon whatſover ſhall be priviledged to enter a Tavern who is not married, under pain of having his Wig and gilt Snuff-box confiſented <hi>Toties Quocies</hi>
+            </p>
+            <p>Fourthlie, That everie Poet, or pretender to be a Poet, or any one that has hired a Poe<g ref="char:EOLhyphen"/>to write anie Play, Satyr, Song or Lampoon, to the derogation of the Matrimonial State, "W" be obliged to marrie before <hi>Lady Day</hi> next enſuing, and to make a ſolemn Recan<g ref="char:EOLhyphen"/>tation
+<pb n="4" facs="tcp:56074:3"/>of all, and everie wicked thing by him utteredd in anie Play, Satyr, Song or Lampoon to the derogation of the Matrimonial State; that all ſuch diſaffected Papers ſhall be called in, and publicklie burnt by the hands of twelve Citie Clergie Men's Wives, on next St. <hi>Valentine</hi>'s Day.</p>
+            <p>Laſtlie, That to prevent the grievous Multitudes of, and frequents reſorts to Miſses and Harlots, everie Perſon of Qualitie pretending to keep a Miſs, after the commencing of this Act, ſhall be enjoined in order to his farther Puniſhment, to keep a Regiment of Foot for his Majeſties Service upon the Rhine; or in caſe he chuſes to disband her, to diſpoſe of her in Marriage to his Footman and Groom, and allow them therewith to ſet up a Coffe-houſe. And as for the Inferior Harlots, all Juſtices of Peaec and Conſtables ſhall execute the Laws againſt them.</p>
+            <p>Having thus, moſt noble Patriots, laid open our Grivances bsfore you, we doubt not but you will take effectual care to redreſs them, could you condeſcend ſo low as to debate about the making Rivers <hi>Wye</hi> and <hi>Lug</hi> navigable, and will you not endeavour as much as in yu lies to untie the <hi>Male-ſtreams</hi> with the <hi>Female?</hi> Cou'd you think it worth the while to take care of the propagation of Woods, the draining of the Fens, and the convert<g ref="char:EOLhyphen"/>ing of Paſtures in to Arable Land; and will you not much more encourage the propagation of Mankind, the draining of the ſuperfluous Humours of the Bod<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> Politiel, and provide that ſo manie longing young Ladies ſhall not lie unploughed, unharrowed, and uncultivated? Beſides there was never a ſitter occaſion for ſuch a
+<hi>Bill,</hi> than what offers it ſelf at preſent: The mightie numbers of Men that our Wars carrie off in <hi>Flanders,</hi> with the little or no Increaſe at home to balance the loſs; and what ought to be no ſmall Argument with you, the few unmarried Sparks that tarrie behind, are of late grown ſo imperious and proud in their demands, that nothing will go down with them now but an Heireſs. Here are an infinit number of Advocats to incline you to be kind to our cauſe, Wit and Youth, Beautie and good Nature, beſides the publick Advantage, and the Proteſtant Religion plead for us; but what cannot fail to move even hearts of Marble, This very Petition is ſubſcrived be Ten Thouſand Green ſickneſs Maidens.</p>
+            <p>That ſingle Conſideration, we know, will prevail with you to eſpouſe our Quarrel, to reſtore Matrimonie to its Primitive Splendor; and laſtlie to deſtroie Celibacie, as effectu<g ref="char:EOLhyphen"/>allie as you have done Poperie. Which will oblige your Petitioners.</p>
+            <closer>
+               <signed>As in duty bound ever to pray. &amp;c.</signed>
+            </closer>
+            <postscript>
+               <p>
+                  <hi>This Pettition is Subſcrived by Threeſcore Thouſand Hands, and never a crack'd Maiden-head; or Widow amongſt them all.</hi>
+               </p>
+            </postscript>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>LONDON, Printed for <hi>Mary Want man,</hi> the Fore maid of the Petitioners,
+<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nd sold by <hi>A. R.</hi> in <hi>Fleet ſtreet,</hi> 1693.</p>
+            <pb facs="tcp:56074:3"/>
+         </div>
+      </back>
+   </text>
+</TEI>
